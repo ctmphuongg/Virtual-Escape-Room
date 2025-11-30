@@ -1,0 +1,19 @@
+# ninja log v5
+0	4242	1764448206916384259	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	129bd1f2b009a8b1
+4242	4368	1764448207039263114	/Users/phuongcao/Documents/VR Development/Final_Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4142f1y1/obj/arm64-v8a/libgame.so	2ee11cf643c4e9a8
+1	3516	1764448206188642858	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1a298a5104128565
+3	3988	1764448206657729201	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	51ff4dd592f8da99
+9	3502	1764448206174853191	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b0724f41487e0eb0
+8	3391	1764448206062823214	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	755387010f7558e6
+1	3277	1764448205935622299	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	db42c57abe2c593f
+2	3256	1764448205920818647	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bd927b99d190e4c9
+4	3249	1764448205903846278	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5e3a956813b4105e
+8	27065	1764454260738858789	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5e3a956813b4105e
+7	27103	1764454260792296815	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bd927b99d190e4c9
+7	27148	1764454260839580643	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	db42c57abe2c593f
+9	27162	1764454260847736393	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	755387010f7558e6
+7	27379	1764454261066486564	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1a298a5104128565
+9	27403	1764454261088293218	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b0724f41487e0eb0
+8	27622	1764454261317170442	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	51ff4dd592f8da99
+6	27749	1764454261445080560	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	129bd1f2b009a8b1
+27749	43569	1764454277262838635	/Users/phuongcao/Documents/VR Development/Final_Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4142f1y1/obj/arm64-v8a/libgame.so	2ee11cf643c4e9a8
