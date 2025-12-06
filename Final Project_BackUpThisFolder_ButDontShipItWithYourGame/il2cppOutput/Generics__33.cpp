@@ -21013,7 +21013,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Dictionary_2_System_Collection
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 60623
+// Method Definition Index: 60624
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_add_dragStarted_m8685765A27FE3120AECBA6039AE9346A3B1F4490_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21056,7 +21056,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60624
+// Method Definition Index: 60625
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_remove_dragStarted_m2EAA2E3C4596104E95373381254BBF59D06160B1_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21099,7 +21099,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60625
+// Method Definition Index: 60626
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_add_dragEnded_m1AB2C468074081966AB7CB91394104E3FFD99EDC_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21142,7 +21142,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60626
+// Method Definition Index: 60627
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_remove_dragEnded_m38EE1830EABF317628C8EFCCFD5BEDE84A039B9E_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21185,7 +21185,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60627
+// Method Definition Index: 60628
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_add_dropped_m4C4ADECD82B0214493D40497744FFAB76A8FBF68_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, Action_1_tCB2600FFD386071D232B22D0FFBB8989B853DFD5* ___0_value, const RuntimeMethod* method) 
 {
 	Action_1_tCB2600FFD386071D232B22D0FFBB8989B853DFD5* V_0 = NULL;
@@ -21222,7 +21222,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60628
+// Method Definition Index: 60629
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_remove_dropped_m9A901498AD3F0794C6F3F30455CF56E4E8C27FFF_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, Action_1_tCB2600FFD386071D232B22D0FFBB8989B853DFD5* ___0_value, const RuntimeMethod* method) 
 {
 	Action_1_tCB2600FFD386071D232B22D0FFBB8989B853DFD5* V_0 = NULL;
@@ -21259,7 +21259,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60629
+// Method Definition Index: 60630
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_get_isDragging_m69B2BB07E751B414A239AF5E7894EADFFB766A99_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -21271,7 +21271,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_get_isDragging_m69B2BB07E75
 		return (bool)((((int32_t)L_1) > ((int32_t)0))? 1 : 0);
 	}
 }
-// Method Definition Index: 60630
+// Method Definition Index: 60631
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1__ctor_m7C282A20C6C09F7F5193B9AC8DEFDDC269D03869_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -21288,7 +21288,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1__ctor_m7C282A20C6C09F7F5193
 		return;
 	}
 }
-// Method Definition Index: 60631
+// Method Definition Index: 60632
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_RegisterCallbacksOnTarget_m7000599A414C86F057832833B730A1F810D4EB0B_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21331,7 +21331,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_RegisterCallbacksOnTarget_m
 		return;
 	}
 }
-// Method Definition Index: 60632
+// Method Definition Index: 60633
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_UnregisterCallbacksFromTarget_m715FB822AA74A33792F104DD174577D5028206B1_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21374,7 +21374,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_UnregisterCallbacksFromTarg
 		return;
 	}
 }
-// Method Definition Index: 60633
+// Method Definition Index: 60634
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_GetDroppableObjectsForUnityObjects_mC53D8FE933D5108E8A130B8D9CB5BC2A187FB2EF_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, ObjectU5BU5D_tD4BF1BEC72A31DF6611C0B8FA3112AF128FC3F8A* ___0_objects, List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D** ___1_objs, const RuntimeMethod* method) 
 {
 	ObjectU5BU5D_tD4BF1BEC72A31DF6611C0B8FA3112AF128FC3F8A* V_0 = NULL;
@@ -21449,7 +21449,7 @@ IL_0031:
 		return (bool)((((int32_t)L_17) > ((int32_t)0))? 1 : 0);
 	}
 }
-// Method Definition Index: 60634
+// Method Definition Index: 60635
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_GetDroppableObjectForPath_m6C8E63698EF257D9E9F827912456B7A408FDA749_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, String_t* ___0_path, RuntimeObject** ___1_obj, const RuntimeMethod* method) 
 {
 	{
@@ -21460,7 +21460,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_GetDroppableObjectForPath_m
 		return (bool)0;
 	}
 }
-// Method Definition Index: 60635
+// Method Definition Index: 60636
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* DropTarget_1_GetDroppableObjects_m1EEAE67F64E78FB6C198E67A94FCD4771DD7D528_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -21471,7 +21471,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9
 		return L_0;
 	}
 }
-// Method Definition Index: 60636
+// Method Definition Index: 60637
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_Reset_m65006AC620EA1E4BB604060A325E63E76D8C13A2_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, const RuntimeMethod* method) 
 {
 	{
@@ -21490,7 +21490,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_Reset_m65006AC620EA1E4BB604
 		return;
 	}
 }
-// Method Definition Index: 60637
+// Method Definition Index: 60638
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerEnter_mF1393CA82D04B24DAEC17BC1FDE98CF306FA3A18_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, PointerEnterEvent_t1B003E301A8969E273D1F5163242BE399B9E63DB* ___0_evt, const RuntimeMethod* method) 
 {
 	{
@@ -21499,7 +21499,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerEnter_mF1393CA82D0
 		return;
 	}
 }
-// Method Definition Index: 60638
+// Method Definition Index: 60639
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerLeave_m5829BFA7A7B2ECE3591701E3242EBF71D183AFF4_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, PointerLeaveEvent_tA2426EF03A82E31DC06960A17E03E88E155AFD84* ___0_evt, const RuntimeMethod* method) 
 {
 	{
@@ -21508,7 +21508,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerLeave_m5829BFA7A7B
 		return;
 	}
 }
-// Method Definition Index: 60639
+// Method Definition Index: 60640
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerCancel_m2E5B7195E685BB09982CDF1F22F59D937B5914AD_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, PointerCancelEvent_t566D42065C3B376AD49A44A406AFE929A6CFEE51* ___0_evt, const RuntimeMethod* method) 
 {
 	{
@@ -21517,7 +21517,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerCancel_m2E5B7195E6
 		return;
 	}
 }
-// Method Definition Index: 60640
+// Method Definition Index: 60641
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnEnter_mE96570E5C37A9703AC5FDE0D633A2601776F20E8_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, const RuntimeMethod* method) 
 {
 	List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* V_0 = NULL;
@@ -21595,7 +21595,7 @@ IL_0048:
 		return;
 	}
 }
-// Method Definition Index: 60641
+// Method Definition Index: 60642
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnExit_m86BF492F6FDF9BFD11C281661E9382DAC8FB75DA_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, const RuntimeMethod* method) 
 {
 	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* G_B6_0 = NULL;
@@ -21655,7 +21655,7 @@ IL_0023:
 		return;
 	}
 }
-// Method Definition Index: 60642
+// Method Definition Index: 60643
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPerform_mC99F024C2E33E971BC74C410F94EA70A7216F624_gshared (DropTarget_1_t84C58673D2E13CE4083C313DED811F9AC2792BEF* __this, const RuntimeMethod* method) 
 {
 	List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* V_0 = NULL;
@@ -21730,7 +21730,7 @@ IL_0047:
 		return;
 	}
 }
-// Method Definition Index: 60643
+// Method Definition Index: 60644
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1__cctor_mD2B54D140AFB8AA882644E3364D35AAAB3106F83_gshared (const RuntimeMethod* method) 
 {
 	{
@@ -21750,7 +21750,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1__cctor_mD2B54D140AFB8AA8826
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 60623
+// Method Definition Index: 60624
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_add_dragStarted_m2A6895C21DE2AEC2D57731943ACF4B09F858BE49_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21793,7 +21793,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60624
+// Method Definition Index: 60625
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_remove_dragStarted_mBFEC715621B3779AB8523BCBBB2D778BB4EE01E1_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21836,7 +21836,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60625
+// Method Definition Index: 60626
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_add_dragEnded_m7B90741111DA22C59434BA7E443E589EEB18A1D8_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21879,7 +21879,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60626
+// Method Definition Index: 60627
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_remove_dragEnded_m65C110FD83FCF322B59C1F10C6C0EEC71B841CBD_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* ___0_value, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -21922,7 +21922,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60627
+// Method Definition Index: 60628
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_add_dropped_m106C8AF5BBE677F4120F8981498B86CFFB8A6B65_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, Action_1_tDC792D7C44BB7EAABC8E5EC7107806E4C55B6420* ___0_value, const RuntimeMethod* method) 
 {
 	Action_1_tDC792D7C44BB7EAABC8E5EC7107806E4C55B6420* V_0 = NULL;
@@ -21959,7 +21959,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60628
+// Method Definition Index: 60629
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_remove_dropped_m2F4E44010EFD4536392A23CB7E8DB813750B1A50_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, Action_1_tDC792D7C44BB7EAABC8E5EC7107806E4C55B6420* ___0_value, const RuntimeMethod* method) 
 {
 	Action_1_tDC792D7C44BB7EAABC8E5EC7107806E4C55B6420* V_0 = NULL;
@@ -21996,7 +21996,7 @@ IL_0007:
 		return;
 	}
 }
-// Method Definition Index: 60629
+// Method Definition Index: 60630
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_get_isDragging_m63636BF7F6851A6BC0A16F52F60B4FE85FCDD15E_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, const RuntimeMethod* method) 
 {
 	{
@@ -22008,7 +22008,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_get_isDragging_m63636BF7F68
 		return (bool)((((int32_t)L_1) > ((int32_t)0))? 1 : 0);
 	}
 }
-// Method Definition Index: 60630
+// Method Definition Index: 60631
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1__ctor_m6192707D59F72FBF06AC8E839B0CF841E2270AC7_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, const RuntimeMethod* method) 
 {
 	{
@@ -22025,7 +22025,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1__ctor_m6192707D59F72FBF06AC
 		return;
 	}
 }
-// Method Definition Index: 60631
+// Method Definition Index: 60632
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_RegisterCallbacksOnTarget_m7E34C998CADDA4E809B7168F2EC13ACD6948C50E_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22068,7 +22068,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_RegisterCallbacksOnTarget_m
 		return;
 	}
 }
-// Method Definition Index: 60632
+// Method Definition Index: 60633
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_UnregisterCallbacksFromTarget_mE6DCC5A5BD2B90514AD7B3998126686DC34122BA_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -22111,7 +22111,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_UnregisterCallbacksFromTarg
 		return;
 	}
 }
-// Method Definition Index: 60633
+// Method Definition Index: 60634
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_GetDroppableObjectsForUnityObjects_m2079804961FB2040DB14D58308226983D1A9E3F9_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, ObjectU5BU5D_tD4BF1BEC72A31DF6611C0B8FA3112AF128FC3F8A* ___0_objects, List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A** ___1_objs, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_T_t36646389291EFC1DFEE05059EFE7EEC08126CA27 = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 11));
@@ -22191,7 +22191,7 @@ IL_0031:
 		return (bool)((((int32_t)L_19) > ((int32_t)0))? 1 : 0);
 	}
 }
-// Method Definition Index: 60634
+// Method Definition Index: 60635
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_GetDroppableObjectForPath_m5995EBAA4059E4894950507332FD976008DE16A9_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, String_t* ___0_path, Il2CppFullySharedGenericAny* ___1_obj, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_T_t36646389291EFC1DFEE05059EFE7EEC08126CA27 = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 11));
@@ -22203,7 +22203,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool DropTarget_1_GetDroppableObjectForPath_m
 		return (bool)0;
 	}
 }
-// Method Definition Index: 60635
+// Method Definition Index: 60636
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A* DropTarget_1_GetDroppableObjects_mC0C97F32F129B4F2E5043B5FC04AC9878ADFBCB5_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, const RuntimeMethod* method) 
 {
 	{
@@ -22214,7 +22214,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B5627
 		return L_0;
 	}
 }
-// Method Definition Index: 60636
+// Method Definition Index: 60637
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_Reset_mF380EEE268E00C9092877EF3F5AE6B188F9BE0F1_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, const RuntimeMethod* method) 
 {
 	{
@@ -22233,7 +22233,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_Reset_mF380EEE268E00C909287
 		return;
 	}
 }
-// Method Definition Index: 60637
+// Method Definition Index: 60638
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerEnter_m7D2D04782459348CBD080ECFC849E71007268B87_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, PointerEnterEvent_t1B003E301A8969E273D1F5163242BE399B9E63DB* ___0_evt, const RuntimeMethod* method) 
 {
 	{
@@ -22242,7 +22242,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerEnter_m7D2D0478245
 		return;
 	}
 }
-// Method Definition Index: 60638
+// Method Definition Index: 60639
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerLeave_m5345205AAAB3B2378898C560849E42AA6E8EE777_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, PointerLeaveEvent_tA2426EF03A82E31DC06960A17E03E88E155AFD84* ___0_evt, const RuntimeMethod* method) 
 {
 	{
@@ -22251,7 +22251,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerLeave_m5345205AAAB
 		return;
 	}
 }
-// Method Definition Index: 60639
+// Method Definition Index: 60640
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerCancel_m2FFBC248B6B10CFE95BC5949B6BBBC1911655F0C_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, PointerCancelEvent_t566D42065C3B376AD49A44A406AFE929A6CFEE51* ___0_evt, const RuntimeMethod* method) 
 {
 	{
@@ -22260,7 +22260,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPointerCancel_m2FFBC248B6
 		return;
 	}
 }
-// Method Definition Index: 60640
+// Method Definition Index: 60641
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnEnter_m8B7AEAAC319C4F6522AAB37523021CFA9245BA55_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, const RuntimeMethod* method) 
 {
 	List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A* V_0 = NULL;
@@ -22338,7 +22338,7 @@ IL_0048:
 		return;
 	}
 }
-// Method Definition Index: 60641
+// Method Definition Index: 60642
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnExit_mB5C726EF0D21372CB2A71E1FDAC196E723F21026_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, const RuntimeMethod* method) 
 {
 	Action_tD00B0A84D7945E50C2DFFC28EFEE6ED44ED2AD07* G_B6_0 = NULL;
@@ -22398,7 +22398,7 @@ IL_0023:
 		return;
 	}
 }
-// Method Definition Index: 60642
+// Method Definition Index: 60643
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1_OnPerform_m2745677F09CD8D9DDAF33D1EAF37E12E54F54E4E_gshared (DropTarget_1_tCC55720AD0B69518D4CC969DC987003F024865B5* __this, const RuntimeMethod* method) 
 {
 	List_1_tDBA89B0E21BAC58CFBD3C1F76E4668E3B562761A* V_0 = NULL;
@@ -22473,7 +22473,7 @@ IL_0047:
 		return;
 	}
 }
-// Method Definition Index: 60643
+// Method Definition Index: 60644
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DropTarget_1__cctor_mF539F987963B6AB3EB54C12C1297C17DBEA2D641_gshared (const RuntimeMethod* method) 
 {
 	{

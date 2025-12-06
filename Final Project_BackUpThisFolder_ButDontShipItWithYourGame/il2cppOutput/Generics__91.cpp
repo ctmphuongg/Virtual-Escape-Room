@@ -7554,7 +7554,7 @@ IL_0170:
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 61012
+// Method Definition Index: 61013
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ManagerCallback__ctor_mB0FCDBBA7C0A91E81E013EF0692907FCA05569F6_gshared (ManagerCallback_t531945ACC2472EDE6CB7D28C27F7611EC5579289* __this, BottomNotification_1_t390403C4443956B74B4FC60ED0538975564355BE* ___0_element, const RuntimeMethod* method) 
 {
 	{
@@ -7568,7 +7568,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ManagerCallback__ctor_mB0FCDBBA7C0A91E81
 		return;
 	}
 }
-// Method Definition Index: 61013
+// Method Definition Index: 61014
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ManagerCallback_Show_m3175E0C61617220B1403D0019BFB9B9CC43B59FA_gshared (ManagerCallback_t531945ACC2472EDE6CB7D28C27F7611EC5579289* __this, const RuntimeMethod* method) 
 {
 	{
@@ -7591,7 +7591,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ManagerCallback_Show_m3175E0C61617220B14
 		return;
 	}
 }
-// Method Definition Index: 61014
+// Method Definition Index: 61015
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ManagerCallback_Dismiss_m0F9BA35452E12825503C8252265DB361CE513E73_gshared (ManagerCallback_t531945ACC2472EDE6CB7D28C27F7611EC5579289* __this, int32_t ___0_reason, const RuntimeMethod* method) 
 {
 	{
@@ -7615,7 +7615,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ManagerCallback_Dismiss_m0F9BA35452E1282
 		return;
 	}
 }
-// Method Definition Index: 61015
+// Method Definition Index: 61016
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* ManagerCallback_get_obj_mE004C1282FAB82EDC468C45C55E39D789338795F_gshared (ManagerCallback_t531945ACC2472EDE6CB7D28C27F7611EC5579289* __this, const RuntimeMethod* method) 
 {
 	{
@@ -9745,7 +9745,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MouseEventBase_1__ctor_mA96528C27A4FDF55
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 63456
+// Method Definition Index: 63457
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void NativeArrayStaticId_1__cctor_m67213AA7112EE9BCD68829DC44441438CB42950A_gshared (const RuntimeMethod* method) 
 {
 	{
@@ -30606,7 +30606,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t List_1_get_Count_m4407E4C
 		return L_0;
 	}
 }
-// Method Definition Index: 61015
+// Method Definition Index: 61016
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR RuntimeObject* ManagerCallback_get_obj_mE004C1282FAB82EDC468C45C55E39D789338795F_gshared_inline (ManagerCallback_t531945ACC2472EDE6CB7D28C27F7611EC5579289* __this, const RuntimeMethod* method) 
 {
 	{
